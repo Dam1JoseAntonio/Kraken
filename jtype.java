@@ -7,6 +7,7 @@ import java.io.*;
 import javax.swing.*;
 /* Clase Main */
 //Cambio
+//Cambio
 public class jtype {
 
     /* Comienza el programa main */
